@@ -20,3 +20,6 @@ This project leverages Retrieval-Augmented Generation (RAG) to provide accurate,
 - **OpenAI API** (LLMs for summarization & chat)
 - **LangChain / FAISS** (for RAG document retrieval)
 - **Virtual Environment** (`.venv`)
+
+- <img width="2784" height="1590" alt="image" src="https://github.com/user-attachments/assets/d6de39ba-65b3-40ba-aa8e-e461536ebd3c" />
+
